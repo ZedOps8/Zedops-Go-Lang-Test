@@ -12,10 +12,4 @@ func main() {
         "Bob":   25,
     }
 
-    // Access and print values in the map
-    fmt.Printf("Alice's age: %d\n", ages["Alice"])
 
-    // Add a new entry to the map and print the updated map
-    ages["Charlie"] = 35
-    fmt.Printf("Updated map: %v\n", ages)
-}
