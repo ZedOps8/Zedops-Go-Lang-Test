@@ -44,7 +44,7 @@ func sieve(limit int) {
 	}
 }
 
-func main( {
+func main() {
 	var limit int
 	// Prompt the user to enter the limit
 	fmt.Print("Enter the limit: ")
